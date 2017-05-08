@@ -1,5 +1,5 @@
 ### SPECIFICATION:
-adj(C1, C2) means C1 is one of the four colors and C2 is one of the four colors and they may be used as adjacent colors on the map (that is if they are different).
+`adj(C1, C2)` means **C1** is one of the four colors and **C2** is one of the four colors and they may be used as adjacent colors on the map (that is if they are different).
 */
 
 ````prolog
