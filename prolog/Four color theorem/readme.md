@@ -8,11 +8,11 @@ adj(red, blue). adj(red, yellow). adj(red, green).
 adj(green, blue). adj(green, blue). adj(green, red).
 ````
 
-The predicate to color a map where :-
-    - R1 is adjacent to R2, R3, R5 and R6.
-    - R2 is adjacent to R3, R4, R5 and R6.
-    - R3 is adjacent to R4 and R6.
-    - R5 is adjacent to R6.
+The predicate to color a map where:
+* R1 is adjacent to R2, R3, R5 and R6.
+* R2 is adjacent to R3, R4, R5 and R6.
+* R3 is adjacent to R4 and R6.
+* R5 is adjacent to R6.
 
 ````prolog
 colorMap(R1, R2, R3, R4, R5, R6) :-
