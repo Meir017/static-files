@@ -17,4 +17,14 @@ use parent class instead of specific implementation
 * <span style="color:green">Allowed</span> to add 'child' transitions or 'sibling' transitions but not change or add a 'parent' transitions 
 * <span style="color:red">Forbidden</span> to delete or rename a state
 
- 
+ ## 2 cell phone example:
+
+
+
+### ISP - Interface Segregation Principle
+
+### DIP - Dependency Inversion Principle
+
+1. High-level modules should not depend on low-level modules. Both should depend on abstractions.
+2. Abstractions should not depend upon details. Details should depend upon abstractions.
+
